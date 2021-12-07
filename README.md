@@ -1,4 +1,4 @@
-# Virtual Machine 💃
+# Virtual Machine 💃 FaizoO 
 
 ### ❣ [MacOS, Linux ]  [ CPU 3core - 7GB Ram - 256 SSD ]
 
@@ -38,7 +38,7 @@ Secrets Name | Uses | Notes
 
 5. Copy the link(**without tcp://**) and go to VNC Viewer(Download and install it), input the link to connect area u copied from the website.
 
-6. Fill in those login info, within username `Avishkar`and password from `VNC_PASSWORD` you typed.
+6. Fill in those login info, within username as you setup while Creating Workflow Here i am using  `Faizoo`and password from `VNC_PASSWORD` you typed.
 
 7. Enjoy!
 
